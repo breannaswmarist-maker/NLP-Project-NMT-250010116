@@ -1,0 +1,20 @@
+# 深度学习框架
+torch>=1.13.0
+
+# 数值计算与绘图
+numpy
+matplotlib
+
+# 自然语言处理 (数据处理与评估)
+jieba
+nltk
+sentencepiece
+
+# 进度条显示 (evaluate.py)
+tqdm
+
+# 预训练模型 (T5 Fine-tuning)
+transformers
+
+# 报告生成 (generate_report.py)
+python-docx
